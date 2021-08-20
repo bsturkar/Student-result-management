@@ -1,0 +1,14 @@
+[INFO] : user opted create account option 
+[INFO] : user opted for create teacher account 
+[INFO] : user opted for log in option 
+[INFO] : user opted for teacher log in 
+[INFO] : valid user id 
+[INFO] : valid passward 
+[INFO] : teacher opted for enter student info 
+[INFO] : teacher opted for get result 
+[INFO] : teacher opted for search roll number 
+[INFO] : teacher opted for get result 
+[INFO] : teacher opted for search roll number 
+[INFO] : teacher logged out 
+[INFO] : user opted for home page 
+[INFO] : user closed the programm 
